@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'flatter/cli'
+Flatter::CLI.new.start
