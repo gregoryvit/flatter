@@ -6,7 +6,7 @@ Faced with similar problem?
 
 Until [Apple fixes problem](http://www.openradar.me/35879960) you can use `flatter` as workaround solution.
 
-Flatter is a gem which simply move all swift files in xCode project to root group. That's all :)
+Flatter is a gem which simply move all swift files in Xcode project to root group. That's all :)
 
 ## Installation
 
