@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
-require 'flatter/cli'
+require 'xcflatter/cli'
 Flatter::CLI.new.start

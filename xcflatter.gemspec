@@ -1,10 +1,10 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "flatter/version"
+require "xcflatter/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "flatter"
+  spec.name          = "xcflatter"
   spec.version       = Flatter::VERSION
   spec.authors       = ["Gregory Berngardt"]
   spec.email         = ["gregoryvit@gmail.com"]

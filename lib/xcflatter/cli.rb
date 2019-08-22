@@ -1,5 +1,5 @@
 require 'optparse'
-require 'flatter'
+require 'xcflatter'
 
 module Flatter
     class CLI

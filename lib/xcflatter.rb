@@ -1,4 +1,4 @@
-require "flatter/version"
+require "xcflatter/version"
 require 'xcodeproj'
 require 'fileutils'
 

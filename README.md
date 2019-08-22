@@ -13,7 +13,7 @@ Flatter is a gem which move all swift files in xCode project to root group. That
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'flatter'
+gem 'xcflatter'
 ```
 
 And then execute:
@@ -22,7 +22,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install flatter
+    $ gem install xcflatter
 
 ## Usage
 
