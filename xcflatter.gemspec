@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Gregory Berngardt"]
   spec.email         = ["gregoryvit@gmail.com"]
 
-  spec.summary       = %q{Flatter is a gem which move all files with specific extension in xCode project to root group.}
-  spec.description   = %q{Flatter is a gem which move all files with specific extension in xCode project to root group.}
+  spec.summary       = %q{Flatter is a gem which move all files with specific extension in Xcode project to root group.}
+  spec.description   = %q{Flatter is a gem which move all files with specific extension in Xcode project to root group.}
   spec.homepage      = "https://github.com/gregoryvit/flatter"
   spec.license       = "MIT"
 
